@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="ee-std-client-demo-ear:ear">
+    <output-path>$PROJECT_DIR$/ee-std-client-demo-ear/target</output-path>
+    <root id="archive" name="ee-std-client-demo-ear-1.0.ear">
+      <element id="artifact" artifact-name="ee-std-client-demo-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

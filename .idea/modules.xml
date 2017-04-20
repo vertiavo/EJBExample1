@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ee-std-client-demo.iml" filepath="$PROJECT_DIR$/ee-std-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee-std-client-demo-ear/ee-std-client-demo-ear.iml" filepath="$PROJECT_DIR$/ee-std-client-demo-ear/ee-std-client-demo-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee-std-client-demo-ejb/ee-std-client-demo-ejb.iml" filepath="$PROJECT_DIR$/ee-std-client-demo-ejb/ee-std-client-demo-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee-std-client-demo-service/ee-std-client-demo-service.iml" filepath="$PROJECT_DIR$/ee-std-client-demo-service/ee-std-client-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee-std-demo-clientapp/ee-std-demo-clientapp.iml" filepath="$PROJECT_DIR$/ee-std-demo-clientapp/ee-std-demo-clientapp.iml" />
+    </modules>
+  </component>
+</project>

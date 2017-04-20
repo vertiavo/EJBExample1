@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ee-std-client-demo-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/ee-std-client-demo-ear/target/ee-std-client-demo-ear-1.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ee-std-client-demo-ear/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ee-std-client-demo-ear/target/ee-std-client-demo-ear-1.0/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/ee-std-client-demo-ear/src/main/application" />
+      <element id="archive" name="ee-std-client-demo-ejb-1.0.jar">
+        <element id="artifact" artifact-name="ee-std-client-demo-ejb:ejb exploded" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="archive" name="ee-std-client-demo-service-1.0.jar">
+          <element id="module-output" name="ee-std-client-demo-service" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

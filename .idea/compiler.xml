@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ee-std-client-demo-ear" />
+        <module name="ee-std-client-demo-ejb" />
+        <module name="ee-std-client-demo-service" />
+        <module name="ee-std-demo-clientapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ee-std-client-demo" target="1.8" />
+      <module name="ee-std-client-demo-ear" target="1.8" />
+      <module name="ee-std-client-demo-ejb" target="1.8" />
+      <module name="ee-std-client-demo-service" target="1.8" />
+      <module name="ee-std-demo-clientapp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
